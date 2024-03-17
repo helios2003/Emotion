@@ -2,7 +2,7 @@
 
 Clone the repository using the command
 ```
-git clone https://github.com/helios2003/Emotions.git
+git clone https://github.com/helios2003/Emotion.git
 ```
 - Activate a new ``venv``.
 - Install the requirements using ``pip install -r requirements.txt``.
